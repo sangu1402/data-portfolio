@@ -173,7 +173,7 @@ function Home() {
     {
       name: "Python for Beginners",
       provider: "Udemy",
-      link: "https://imgur.com/a/KgT1Ppr",
+      link: "https://postimg.cc/bDLpWh44",
       backgroundImage:
         "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800&q=80",
       color: "from-yellow-900 to-orange-900",
@@ -181,7 +181,7 @@ function Home() {
     {
       name: "SQL and Power BI",
       provider: "Udemy",
-      link: "https://imgur.com/Lg1e1f2",
+      link: "https://postimg.cc/PCLJDP0J",
       backgroundImage:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
       color: "from-red-900 to-pink-900",
