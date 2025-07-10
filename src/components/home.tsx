@@ -181,7 +181,7 @@ function Home() {
     {
       name: "SQL and Power BI",
       provider: "Udemy",
-      link: "https://imgur.com/a/FmxnyAQ",
+      link: "https://imgur.com/Lg1e1f2",
       backgroundImage:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
       color: "from-red-900 to-pink-900",
