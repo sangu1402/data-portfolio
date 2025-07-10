@@ -173,7 +173,7 @@ function Home() {
     {
       name: "Python for Beginners",
       provider: "Udemy",
-      link: "https://ude.my/UC-01262676-2c94-4d8a-a201-1562d115eb25",
+      link: "https://imgur.com/a/KgT1Ppr",
       backgroundImage:
         "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800&q=80",
       color: "from-yellow-900 to-orange-900",
@@ -181,7 +181,7 @@ function Home() {
     {
       name: "SQL and Power BI",
       provider: "Udemy",
-      link: "https://ude.my/UC-cb71690d-68b9-41c8-89e1-46158a3c8447",
+      link: "https://imgur.com/a/FmxnyAQ",
       backgroundImage:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
       color: "from-red-900 to-pink-900",
@@ -189,7 +189,7 @@ function Home() {
     {
       name: "Learning Excel 2019",
       provider: "LinkedIn",
-      link: "https://www.linkedin.com/learning/certificates/AdZX--Svl3yyB5HTdTuCjMB2mhQ-",
+      link: "https://imgur.com/a/FmxnyAQ",
       backgroundImage:
         "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&q=80",
       color: "from-gray-900 to-slate-900",
