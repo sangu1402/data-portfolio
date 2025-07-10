@@ -298,7 +298,7 @@ function Home() {
             </div>
             <div>
               <img
-                src="/images/Sangu_DP.png"
+                src="/images/My_photo1.jpeg"
                 alt="Sangayya Hiremath"
                 className="w-80 h-96 object-cover rounded-lg shadow-2xl"
               />
